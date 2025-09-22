@@ -9,6 +9,7 @@ class FizzBuzz {
         doFizzBuzz();
         // 123
         // 456
+        // 789
     }
 
     private static void doFizzBuzz() {
